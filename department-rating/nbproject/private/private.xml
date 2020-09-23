@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/web/WEB-INF/message.properties</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/web/WEB-INF/dispatcher-servlet.xml</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/src/java/com/departmentrating/utilities/General.java</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/src/java/com/departmentrating/services/ChangePasswordService.java</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/src/java/com/departmentrating/services/ActivatePerformanceService.java</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/src/java/com/departmentrating/services/AdminService.java</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/src/java/com/departmentrating/models/AggregatePerformance.java</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/src/java/com/departmentrating/repository/UserRepository.java</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/src/java/com/departmentrating/models/AggregateViewStructure.java</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/src/java/com/departmentrating/interfaces/ActivatePerformanceInterface.java</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/web/WEB-INF/jsp/login.jsp</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/src/java/com/departmentrating/services/UserService.java</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/web/WEB-INF/jsp/performancelist.jsp</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/src/java/com/departmentrating/interfaces/ChangePasswordInterface.java</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/src/java/com/departmentrating/models/resetModel.java</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/web/WEB-INF/beans.xml</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/src/conf/MANIFEST.MF</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/src/java/com/departmentrating/services/ResetService.java</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/src/java/com/departmentrating/models/DepartmentRatings.java</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/web/WEB-INF/jsp/rating.jsp</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/web/WEB-INF/jsp/changepassword.jsp</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/src/java/com/departmentrating/models/Users.java</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/src/java/com/departmentrating/interfaces/AdminInterface.java</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/src/java/com/departmentrating/services/RatingService.java</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/web/WEB-INF/jsp/dashboard.jsp</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/src/java/com/departmentrating/interfaces/ResetInterface.java</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/src/java/com/departmentrating/repository/ResetRepository.java</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/web/WEB-INF/applicationContext.xml</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/src/java/com/departmentrating/Controller/MainController.java</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/web/WEB-INF/jsp/resetpassword.jsp</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/web/WEB-INF/jsp/activate-rating.jsp</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/src/java/com/departmentrating/interfaces/RatingInterface.java</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/web/WEB-INF/jsp/ratehistory.jsp</file>
+            <file>file:/C:/Users/Chibuike.Ugwu/OneDrive%20-%20VFD%20GROUP%20LIMITED/Documents/NetBeansProjects/department-rating/src/java/com/departmentrating/repository/RatingRepository.java</file>
+        </group>
+    </open-files>
+</project-private>
